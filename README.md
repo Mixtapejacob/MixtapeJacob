@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there   I'm Jacob Atakora
 
-<!--
-**Mixtapejacob/MixtapeJacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend & Software Developer** based in Dallas, TX  
+Passionate about building **user-friendly, visually appealing, and responsive websites**.  
+I transitioned from sales into web development to combine my love for problem-solving with creativity — and I’ve been hooked ever since.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+- **Backend:** Node.js, Express, MongoDB  
+- **Programming Languages:** Python, Java  
+- **Libraries & Tools:** NumPy, Git, GitHub, Netlify, Render
+
+### 🌟 Featured Projects
+- 🎬 [**myFlix Client**](https://github.com/Mixtapejacob/myFlix-client)  
+  React app for browsing movies, with authentication, favorites, and responsive UI.  
+
+- ✅ [**To-Do List App**](https://github.com/Mixtapejacob/to-do-list-app)  
+  CRUD functionality with localStorage, clean and minimal design.
+
+  - 🌐 [**Portfolio Website**](https://react-resume-eight-delta.vercel.app/)  
+  Personal site showcasing my projects and skills.
+
+### 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/jacob-atakora-6b93851a2/)  
+- [Portfolio](https://react-resume-eight-delta.vercel.app/)  
+- [GitHub](https://github.com/Mixtapejacob)  
+ 
