@@ -1,6 +1,6 @@
 ## Hi there   I'm Jacob Atakora
 
-🚀 **Frontend & Software Developer** based in Dallas, TX  
+🚀 **Full-Stack software engineer** based in Dallas, TX  
 Passionate about building **user-friendly, visually appealing, and responsive websites**.  
 I transitioned from sales into web development to combine my love for problem-solving with creativity — and I’ve been hooked ever since.  
 
