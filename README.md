@@ -8,7 +8,7 @@ I transitioned from sales into web development to combine my love for problem-so
 
 ### 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
-- **Backend:** Node.js, Express, MongoDB  
+- **Backend:** Node.js, Express, MongoDB, SupaBase, Next.js
 - **Programming Languages:** Python, Java  
 - **Libraries & Tools:** NumPy, Git, GitHub, Netlify, Render
 
